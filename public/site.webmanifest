@@ -1,0 +1,14 @@
+{
+    "name": "在线工具箱",
+    "short_name": "工具箱",
+    "icons": [
+        {
+            "src": "images/favicon.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#4CAF50",
+    "background_color": "#ffffff",
+    "display": "standalone"
+} 
